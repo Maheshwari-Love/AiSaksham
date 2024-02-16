@@ -1,0 +1,28 @@
+.flexcontainer{
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+}
+.item{
+    width: 100px;
+    height: 100px;
+
+}
+.item1{
+    
+    background-color: rgb(42, 235, 148);
+}
+
+.item2{
+   
+    background-color: rgb(226, 78, 78);
+}
+
+.item3{
+   
+    background-color: rgb(5, 233, 214);
+}
+
